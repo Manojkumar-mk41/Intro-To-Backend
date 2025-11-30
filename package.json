@@ -1,0 +1,24 @@
+{
+  "name": "intro-to-backend",
+  "version": "1.0.0",
+  "description": "a tutorial for intro to backend",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manojkumar-mk41/Intro-To-Backend.git"
+  },
+  "author": "Manoj Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manojkumar-mk41/Intro-To-Backend/issues"
+  },
+  "homepage": "https://github.com/Manojkumar-mk41/Intro-To-Backend#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^9.0.0"
+  }
+}
